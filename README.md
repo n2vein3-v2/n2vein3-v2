@@ -3,7 +3,7 @@
 
 <p align="center"> ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒ </p>
 <p align="center"> 
-	_"everything my heart desires..."_
+	"everything my heart desires..."
 </p>
 <p align="center"> ⋆⋅†⋅⋆ </p> 
 
@@ -11,4 +11,5 @@
 feel free to interact at all times 
 unless stated otherwise
 <p align="center"> ⋆⋅†⋅⋆ </p> 
-<p align="center">check [straw](https://n2vein3.straw.page/) for more info</p>
+<p align="center">check straw for more info</p>
+<p align="center">──────────────────────── ✦ ────────────────────────</p>
