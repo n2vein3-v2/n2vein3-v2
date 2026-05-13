@@ -8,8 +8,7 @@
 <p align="center"> ⋆⋅†⋅⋆ </p> 
 
 <p align="left"> ◈ for pt: im mostly staying near docks or in roblox area,</p>
-<p align="left">feel free to interact at all times </p>
-<p align="left">unless stated otherwise</p>
+<p align="left">w2i & c*h freely unless stated otherwise</p>
 <p align="center"> ⋆⋅†⋅⋆ </p> 
 <p align="center">check straw for more info</p>
 <p align="center">──────────────────────── ✦ ────────────────────────</p>
