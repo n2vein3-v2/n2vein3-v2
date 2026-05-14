@@ -13,7 +13,7 @@ $$\color{red} ⋆⋅†⋅⋆ $$
 
 $$\color{red} ⋆⋅†⋅⋆ $$
 
-<p align="center">check straw for more info</p>
+$$\color{red} check \space straw \space for \space more \space info $$
 
 $$\color{black} ─────────────────── ✦ ─────────────────── $$
 
