@@ -2,7 +2,7 @@
 
 $$\color{black} ─────────────────── ✦ ─────────────────── $$
 
-  <img width="1000" height="204" alt="Untitled9_20260401061718" src="https://github.com/user-attachments/assets/7f6e7a50-7549-4004-9856-805c3e34641c" />
+  <img width="1000" height="204" alt="banner" src="https://github.com/user-attachments/assets/410a95ef-2895-48ba-b7dd-7577d7d8657c" />
 
 $$\color{black} ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒ $$
 
@@ -33,4 +33,5 @@ $$\color{black} ─────────────────── ✦ �
 
 $$\color{black} ─────────────────── ✦ ─────────────────── $$
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=670000&center=true&multiline=true&width=435&lines=so+long+and+goodnight%2C+;so+long+and+goodnight" alt="Typing SVG" /></a>
+
 
