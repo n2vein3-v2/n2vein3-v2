@@ -2,9 +2,7 @@
 
 $$\color{black} ─────────────────── ✦ ─────────────────── $$
 
-  <img width="1000" height="204" alt="banner" src="https://github.com/user-attachments/assets/410a95ef-2895-48ba-b7dd-7577d7d8657c" />
-
-$$\color{black} ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒ $$
+  <img width="1000" height="204" alt="banner" src=https://github.com/n2vein3-v2/n2vein3-v2/blob/main/banner.png />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=670000&center=true&width=435&lines=what's+the+worst+that+i+can+say%3F;things+are+better+if+i+stay" alt="Typing SVG" /></a>
 
@@ -35,3 +33,4 @@ $$\color{black} ─────────────────── ✦ �
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=670000&center=true&multiline=true&width=435&lines=so+long+and+goodnight%2C+;so+long+and+goodnight" alt="Typing SVG" /></a>
 
 
+$$\color{black} ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒ $$
