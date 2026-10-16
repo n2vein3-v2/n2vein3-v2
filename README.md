@@ -22,10 +22,7 @@ ds: n2vein3 âœ¦ tg: <a href="https://t.me/n2vein3" target="_blank">n2vein3</a> â
 <br/>
 alt githubs
 <br/>
-<a href="https://github.com/thetellers" target="_blank">@thetellers</a><br/>&&<br/>
-<a href="https://github.com/ReelingFromTheRafters" target="_blank">@ReelingFromTheRafters</a><br/>
-&&<br/>
-<a href="https://github.com/RainMyHeart" target="_blank">@RainMyHeart</a><br/>
+<a href="https://github.com/thetellers" target="_blank">@thetellers</a> && <a href="https://github.com/ReelingFromTheRafters" target="_blank">@ReelingFromTheRafters</a> && <a href="https://github.com/RainMyHeart" target="_blank">@RainMyHeart</a><br/>
 
 </details>
 
